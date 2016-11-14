@@ -1,4 +1,5 @@
-Mars jest czwarta planeta.
+Mars jest piata planeta.
+Jeszcze jedna zmiana.
 
 Mars jest czerwony bardzo.
 
